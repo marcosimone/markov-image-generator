@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Users\Marco\Desktop\Markov_it\Markov\.metadata\.plugins\org.eclipse.jdt.core
